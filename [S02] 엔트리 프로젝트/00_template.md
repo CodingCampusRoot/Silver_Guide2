@@ -6,7 +6,7 @@
 [https://naver.me/G1sqWKBz](https://naver.me/G1sqWKBz) 
 
 ## 1. 게임 개요
-![](img/05_아기새를지켜라/5_13.png)
+![](img/18_전투기슈팅게임1/1.png)
 - 
 
 ## 2. 게임 제작하기
